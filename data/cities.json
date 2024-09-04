@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "cdb9",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-05-29T07:39:02.440Z",
+      "notes": "yep",
+      "position": {
+        "lat": "52.47070226943809",
+        "lng": "13.416496913385444"
+      }
+    },
+    {
+      "id": "aea0",
+      "cityName": "Ajdabiya",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2024-06-01T11:07:11.477Z",
+      "notes": "",
+      "position": {
+        "lat": "28.441928937339288",
+        "lng": "22.148437500000004"
+      }
+    }
+  ]
+}
